@@ -1,5 +1,5 @@
 // Experimented with fancy markdown comments in this one.
-// I'm fairly sure that I violated some standards in doing so, but the result was comment exposition was more readable.
+// I'm fairly sure that I violated some standards in doing so, but the result was more readable.
 pub fn main() {
     // primitive array
     let mut array1 = [1, 2, 3];
