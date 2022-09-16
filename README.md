@@ -1,0 +1,3 @@
+# I followed along with a Rust crash course video, and here's the result
+
+I'm not sure how to license this stuff because it's just little nonsense example programs -- and I based them on someone else's nonsense example programs. The video I followed is [here](https://www.youtube.com/watch?v=zF34dRivLOw). Was a lot faster to learn this way than by banging my head against the wall -- the way Rust tracks ownership was oddly counterintuitive to me as a C++/Python programmer, and I appreciated the hand-holding provided by the video.
